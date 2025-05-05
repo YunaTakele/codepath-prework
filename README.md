@@ -14,7 +14,7 @@ The following **required** functionality is completed:
 - [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-    (https://cdn.loom.com/sessions/thumbnails/dc0cf766d67840fe9bf5cb7cde763cac-bb3a92a44a91b825-full-play.gif)](https://www.loom.com/share/dc0cf766d67840fe9bf5cb7cde763cac)
+[![Watch the video](https://cdn.loom.com/sessions/thumbnails/dc0cf766d67840fe9bf5cb7cde763cac-bb3a92a44a91b825-full-play.gif)](https://www.loom.com/share/dc0cf766d67840fe9bf5cb7cde763cac)
 
 ## App Brainstorming (Step 4)
 
