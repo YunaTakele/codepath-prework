@@ -27,18 +27,9 @@ Describe any challenges encountered while building the app.
 2. Familirizing myself with xcode workspace and Github
 
 ## My favorite 3-5 applications
-1. Telegram: 
-    a. Being able to edit my messages after they are sent
-    b. Being able to check what time my messages were delivered and seen
-    c. The ease and simplicity of its interface 
-2. Notion
-    a. Its feature to embede files from my local drive and google workspace
-    b. The availability of different templates locally from the app and online from other users that can be downloaded
-    c. Simple interface
-3. Google chrome
-    a. Simple interface that is easy to navigate
-    b. Being able to organize different tabs into groups 
-    c. Password saving feature
+1. Telegram: Being able to edit my messages after they are sent; Being able to check what time my messages were delivered and seen; The ease and simplicity of its interface 
+2. Notion: Its feature to embede files from my local drive and google workspace; The availability of different templates locally from the app and online from other users that can be downloaded; Simple interface
+3. Google chrome: Simple interface that is easy to navigate; Being able to organize different tabs into groups; Password saving feature
     
 ## An app I want to build: PrepMate
 
