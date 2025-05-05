@@ -14,16 +14,35 @@ The following **required** functionality is completed:
 - [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
-
+    <a href="https://www.loom.com/share/dc0cf766d67840fe9bf5cb7cde763cac">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/dc0cf766d67840fe9bf5cb7cde763cac-bb3a92a44a91b825-full-play.gif">
+    </a>
+  
 ## App Brainstorming (Step 4)
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+1. Organizing my file directory under my project
+2. Familirizing myself with xcode workspace and Github
+
+## My favorite 3-5 applications
+1. Telegram: 
+    a. Being able to edit my messages after they are sent
+    b. Being able to check what time my messages were delivered and seen
+    c. The ease and simplicity of its interface 
+2. Notion
+    a. Its feature to embede files from my local drive and google workspace
+    b. The availability of different templates locally from the app and online from other users that can be downloaded
+    c. Simple interface
+3. Google chrome
+    a. Simple interface that is easy to navigate
+    b. Being able to organize different tabs into groups 
+    c. Password saving feature
+    
+## An app I want to build: PrepMate
+
+This app is an all-in-one grocery and meal prep assistant that helps users eat healthier, reduce food waste, and save time. Users can scan their grocery receipts to track and input what they have bought, get shelf estimates for each item, and receive personalized meal prep plans based on each item's shelf time. The app also will have a feature that takes in each user's health goals and health-related issues - recommending what to buy, generating meal ideas based on their groceries, and syncing prep scedule with their calendars. Furthermore, it will include a community space where users can discover and share or upload recipes, including step-by-step videos. It even will have a feature that helps users compare local store availability and prices for future shopping. 
 
 ## License
 
