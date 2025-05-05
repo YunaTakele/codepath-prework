@@ -14,14 +14,9 @@ The following **required** functionality is completed:
 - [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-    <div>
-    <a href="https://www.loom.com/share/dc0cf766d67840fe9bf5cb7cde763cac">
-      <p>A Swift Tour | Documentation - 1 May 2025 - Watch Video</p>
-    </a>
     <a href="https://www.loom.com/share/dc0cf766d67840fe9bf5cb7cde763cac">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/dc0cf766d67840fe9bf5cb7cde763cac-bb3a92a44a91b825-full-play.gif">
     </a>
-  </div>
   
 ## App Brainstorming (Step 4)
 
